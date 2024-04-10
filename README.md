@@ -1,5 +1,25 @@
 # 💫 About Me:
-👋 Ciao! Sono Marco Di Candia, ho 21 anni, e sono un Junior Full Stack Developer con una particolare attitudine per il front-end. Ho lavorato su diversi progetti che mi hanno permesso di consolidare le mie capacità di problem solving e di sviluppare una solida comprensione delle best practices nel settore dello sviluppo web.<br><br>👨‍💻 Ecco le mie competenze (sempre in aggiornamento 🚀):<br><br>💻 HTML, CSS, JavaScript,<br>📝 TypeScript<br>🎨 Sass e Bootstrap<br>🅰️ Angular<br>🚀 Node.js<br>☕️ Java<br>🌼 Spring<br>🖥️ PHP<br>🗃️ MySQL<br>📝 Git e GitHub Desktop<br><br><br>La mia capacità di collaborare efficacemente in team è uno dei miei punti di forza 🤝, e mi considero una persona creativa 💡, in grado di pensare fuori dagli schemi per trovare soluzioni innovative 💡. Sebbene abbia una predisposizione per il front-end, sono altrettanto competente nel lavoro sul back-end 💼.<br><br>Guardando al futuro, il mio obiettivo è trovare un lavoro come Full Stack Web Developer. Sono affascinato da questo mondo in continua evoluzione e desidero mettermi alla prova su progetti ambiziosi e stimolanti🌟. Voglio continuare a imparare e a crescere professionalmente, contribuendo al successo di grandi progetti e portando valore aggiunto al team di sviluppo💼.<br><br>Sono entusiasta all'idea di entrare in questo fantastico mondo e di intraprendere questa sfida per contribuire al progresso nel campo dello sviluppo web. 🚀✨💻
+👋 Salve! Mi chiamo Marco Di Candia, ho 21 anni e sono un Junior Full Stack Developer con una inclinazione per il front-end. Attraverso diversi progetti, ho affinato le mie capacità di risoluzione dei problemi e ho sviluppato una solida comprensione delle best practices nello sviluppo web. È importante sottolineare che nutro una grande passione per il mondo della tecnologia e sono particolarmente affascinato da esso.
+
+👨‍💻 Ecco le mie competenze (sempre in aggiornamento 🚀):
+
+💻 HTML, CSS, JavaScript,
+📝 TypeScript
+🎨 Sass e Bootstrap
+🅰️ Angular
+🚀 Node.js
+☕️ Java
+🌼 Spring
+🖥️ PHP
+🗃️ MySQL
+📝 Git e GitHub Desktop
+
+
+La mia capacità di collaborare efficacemente in team è uno dei miei punti di forza 🤝, e mi considero una persona creativa 💡, in grado di pensare fuori dagli schemi per trovare soluzioni innovative 💡. Sebbene abbia una predisposizione per il front-end, sono altrettanto competente nel lavoro sul back-end 💼.
+
+Guardando al futuro, il mio obiettivo è trovare un lavoro come Full Stack Web Developer. Sono affascinato da questo mondo in continua evoluzione e desidero mettermi alla prova su progetti ambiziosi e stimolanti🌟. Voglio continuare a imparare e a crescere professionalmente, contribuendo al successo di grandi progetti e portando valore aggiunto al team di sviluppo💼.
+
+Sono entusiasta all'idea di entrare in questo fantastico mondo e di intraprendere questa sfida per contribuire al progresso nel campo dello sviluppo web. 🚀✨💻
 
 
 ## 🌐 Socials:
